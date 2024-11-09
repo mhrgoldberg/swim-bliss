@@ -11,7 +11,7 @@ extend-exclude = '''
 name = "backend"
 version = "0.1.0"
 description = "The backend to the SwimBlissApp"
-authors = ["mhrgoldberg <mhrgoldbergs@gmail.com>"]
+authors = ["mhrgoldberg <mhrgoldberg@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
